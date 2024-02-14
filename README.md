@@ -2,6 +2,8 @@
 
 [The Odin Project](https://www.theodinproject.com/) (TOP) is an open-source curriculum for learning full-stack web development. Our curriculum is divided into distinct courses, each covering the subject language in depth. Each course contains a listing of lessons interspersed with multiple projects. These projects give users the opportunity to practice what they are learning, thereby reinforcing and solidifying the theoretical knowledge learned in the lessons. Completed projects may then be included in the user's portfolio.
 
+This is a random phrase inserted in between that has nothing to do with the content itself and was made just so that gusty can test out the contributing thing! Lorem ipsum dolor sit amet.
+
 Lessons are structured through a combination of original written content and a compilation of carefully curated resources from the web. This is where the contributing happens!
 
 This repo contains the actual lesson files used on our website. For the actual TOP app that pulls in this lesson content and contains our front-end and back-end code, please go to the [main TOP repo](https://github.com/TheOdinProject/theodinproject).
